@@ -1,11 +1,11 @@
 [
     {
         "name": "c#",
-        "icon": "https://drive.google.com/file/d/137dQiujDnfj4xIHVWVaJJz72-XS2gcHO/view?usp=sharing"
+        "icon": "assets/images/skills/csharp.png"
     },
     {
         "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+        "icon": "angular.png"
     },
     {
         "name": "NodeJS",
