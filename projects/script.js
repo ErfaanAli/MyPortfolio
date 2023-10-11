@@ -30,14 +30,14 @@ document.addEventListener('visibilitychange',
     });
 
 
-// fetch projects start
-function getProjects() {
-    return fetch("projects.json")
-        .then(response => response.json())
-        .then(data => {
-            return data
-        });
-}
+// // fetch projects start
+// function getProjects() {
+//     return fetch("projects.json")
+//         .then(response => response.json())
+//         .then(data => {
+//             return data
+//         });
+// }
 
 
 function showProjects(projects) {
@@ -100,9 +100,9 @@ function showProjects(projects) {
     });
 }
 
-getProjects().then(data => {
-    showProjects(data);
-})
+// getProjects().then(data => {
+//     showProjects(data);
+// })
 // fetch projects end
 
 // Start of Tawk.to Live Chat
