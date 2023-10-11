@@ -37,7 +37,15 @@
     },
     {
         "name": "Azure",
-        "icon": "https://img.icons8.com/color/48/000000/azure.png"
+        "icon":"assets/images/skills/azure.png"
+    },
+    {
+        "name": "Cosmos DB",
+        "icon": "assets/images/skills/cosmos.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
     {
         "name": "Bootstrap",
@@ -74,10 +82,6 @@
     {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-    },
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
     {
         "name": "PostgreSQL",
