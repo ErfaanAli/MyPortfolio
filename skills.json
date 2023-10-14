@@ -4,16 +4,8 @@
         "icon": "assets/images/skills/csharp.png"
     },
     {
-        "name": "ASP .NET",
-        "icon": "assets/images/skills/asp-dot-net.png"
-    },
-    {
         "name": ".NET Core",
         "icon": "assets/images/skills/dot-net-core.png"
-    },
-    {
-        "name": "EF Core",
-        "icon": "assets/images/skills/asp-dot-net.png"
     },
     {
         "name": "Angular",
@@ -22,6 +14,14 @@
     {
         "name": "Docker",
         "icon": "assets/images/skills/docker.png"
+    },
+    {
+        "name": "ASP .NET",
+        "icon": "assets/images/skills/asp-dot-net.png"
+    },
+    {
+        "name": "EF Core",
+        "icon": "assets/images/skills/asp-dot-net.png"
     },
     {
         "name": "Kubernetes",
