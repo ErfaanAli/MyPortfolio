@@ -1,31 +1,32 @@
 [
- 
+  {
+    "name": "portfolio",
+    "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://erfaanali.github.io/Portfolio/",
+      "code": "https://github.com/ErfaanAli/Portfolio/"
+    }
+  },
   {
     "name": "3techno Website",
-    "desc": "technofinancials website",
+    "desc": "Techno Financials - Modern ERP & HCM Solution in Pakistan. Worked on this project as a Junior software engineer during my tenure with 3 Techno (Pvt) Ltd.",
     "image": "technofinancials",
     "category": "basicweb",
     "links": {
       "view": "https://3techno.com/techno-financials",
-      "code": "Code can't be viewved"
+      "code": "Code can't be viewed."
     }
-  },  {
+  },
+  {
     "name": "lambkinz",
-    "desc": "technofinancials website",
+    "desc": "lambkinz: Storytelling and learning platforms. Worked on this project as a senior software engineer during my tenure with Nasfia (Pvt) Ltd.",
     "image": "lambkinz",
     "category": "basicweb",
     "links": {
-      "view": "https://3techno.com/techno-financials",
-      "code": "Code can't be viewved"
-    }
-  },  {
-    "name": "portfolio",
-    "desc": "technofinancials website",
-    "image": "portfolio",
-    "category": "basicweb",
-    "links": {
-      "view": "https://3techno.com/techno-financials",
-      "code": "Code can't be viewved"
+      "view": "https://lambkinz.pk/",
+      "code": "Code can't be viewed."
     }
   }
 ]
