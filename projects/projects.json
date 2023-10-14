@@ -3,7 +3,25 @@
   {
     "name": "3techno Website",
     "desc": "technofinancials website",
-    "image": "assets/images/projects/technofinancials.png",
+    "image": "technofinancials",
+    "category": "basicweb",
+    "links": {
+      "view": "https://3techno.com/techno-financials",
+      "code": "Code can't be viewved"
+    }
+  },  {
+    "name": "3techno Website",
+    "desc": "technofinancials website",
+    "image": "technofinancials",
+    "category": "basicweb",
+    "links": {
+      "view": "https://3techno.com/techno-financials",
+      "code": "Code can't be viewved"
+    }
+  },  {
+    "name": "3techno Website",
+    "desc": "technofinancials website",
+    "image": "technofinancials",
     "category": "basicweb",
     "links": {
       "view": "https://3techno.com/techno-financials",
