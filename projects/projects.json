@@ -1,13 +1,13 @@
 [
  
   {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
+    "name": "3techno Website",
+    "desc": "technofinancials website",
+    "image": "assets/images/projects/technofinancials.png",
     "category": "basicweb",
     "links": {
-      "view": "https://github.com/ErfaanAli/Portfolio",
-      "code": "https://github.com/ErfaanAli/Portfolio"
+      "view": "https://3techno.com/techno-financials",
+      "code": "Code can't be viewved"
     }
   }
 ]
