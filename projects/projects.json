@@ -10,18 +10,8 @@
     }
   },
   {
-    "name": "Techno Financials",
-    "desc": "Techno Financials - Modern ERP & HCM Solution in Pakistan. <br> Worked on this project as a Junior software engineer during my tenure with 3 Techno (Pvt) Ltd.",
-    "image": "technofinancials",
-    "category": "Advance Web",
-    "links": {
-      "view": "https://3techno.com/techno-financials/",
-      "code": "Code can't be viewed."
-    }
-  },
-  {
     "name": "Ink",
-    "desc": "Digital Signage Software for Your Enterprise. A product of <a href=\"https://www.omnivex.com/\" target=\"_blank\">Omnivex</a>. <br>Worked on this project as a software engineer during my tenure with (Pvt) Ltd.",
+    "desc": "Digital Signage Software for Your Enterprise. A product of <a href=\"https://www.omnivex.com/\" target=\"_blank\">Omnivex</a>. <br>Worked on this project as a software engineer during my tenure with <a href=\"https://www.linkedin.com/company/intellyct/mycompany/\" target=\"_blank\">Intellyct (Pvt) Ltd.</a>.",
     "image": "ink",
     "category": "Advance Web",
     "links": {
@@ -31,7 +21,7 @@
   },
   {
     "name": "Hprime",
-    "desc": "Prevocational Medical Training Management Software. <br> Worked on this project as a senior software engineer during my tenure with Nasfia (Pvt) Ltd.",
+    "desc": "Prevocational Medical Training Management Software. <br> Worked on this project as a senior software engineer during my tenure with <a href=\"https://www.linkedin.com/company/nasfia/\" target=\"_blank\">Nasfia (Pvt) Ltd.</a>.",
     "image": "hprime",
     "category": "basicweb",
     "links": {
@@ -41,11 +31,21 @@
   },
   {
     "name": "lambkinz",
-    "desc": "lambkinz: Storytelling and learning platforms. <br> Worked on this project as a senior software engineer during my tenure with Nasfia (Pvt) Ltd.",
+    "desc": "lambkinz: Storytelling and learning platforms. <br> Worked on this project as a senior software engineer during my tenure with <a href=\"https://www.linkedin.com/company/nasfia/\" target=\"_blank\">Nasfia (Pvt) Ltd.</a>.",
     "image": "lambkinz",
     "category": "basicweb",
     "links": {
       "view": "https://lambkinz.pk/",
+      "code": "Code can't be viewed."
+    }
+  },
+  {
+    "name": "Techno Financials",
+    "desc": "Techno Financials - Modern ERP & HCM Solution in Pakistan. <br> Worked on this project as a Junior software engineer during my tenure with <a href=\"https://www.linkedin.com/company/intellyct/mycompany/\" target=\"_blank\">3techno (Pvt) Ltd.</a>.",
+    "image": "technofinancials",
+    "category": "Advance Web",
+    "links": {
+      "view": "https://3techno.com/techno-financials/",
       "code": "Code can't be viewed."
     }
   }
