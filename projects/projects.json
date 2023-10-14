@@ -1,18 +1,7 @@
 [
-  
-  {
-    "name": "3techno Website",
-    "desc": "Techno Financials - Modern ERP & HCM Solution in Pakistan. Worked on this project as a Junior software engineer during my tenure with 3 Techno (Pvt) Ltd.",
-    "image": "technofinancials",
-    "category": "basicweb",
-    "links": {
-      "view": "https://3techno.com/techno-financials",
-      "code": "Code can't be viewed."
-    }
-  },
   {
     "name": "Portfolio Website",
-    "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+    "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here already!",
     "image": "portfolioimage",
     "category": "basicweb",
     "links": {
@@ -21,8 +10,38 @@
     }
   },
   {
+    "name": "Techno Financials",
+    "desc": "Techno Financials - Modern ERP & HCM Solution in Pakistan. \n Worked on this project as a Junior software engineer during my tenure with 3 Techno (Pvt) Ltd.",
+    "image": "technofinancials",
+    "category": "Advance Web",
+    "links": {
+      "view": "https://3techno.com/techno-financials/",
+      "code": "Code can't be viewed."
+    }
+  },
+  {
+    "name": "Ink",
+    "desc": "Digital Signage Software for Your Enterprise. A product of Omnivex <a href=\"https://www.omnivex.com/\">https://www.omnivex.com/</a>. \n Worked on this project as a software engineer during my tenure with Nasfia (Pvt) Ltd.",
+    "image": "omnivex",
+    "category": "Advance Web",
+    "links": {
+      "view": "https://omnivex.ink/",
+      "code": "Code can't be viewed."
+    }
+  },
+  {
+    "name": "Hprime",
+    "desc": "Prevocational Medical Training Management Software. \n Worked on this project as a senior software engineer during my tenure with Nasfia (Pvt) Ltd.",
+    "image": "hprime",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.hprime.com.au/",
+      "code": "Code can't be viewed."
+    }
+  },
+  {
     "name": "lambkinz",
-    "desc": "lambkinz: Storytelling and learning platforms. Worked on this project as a senior software engineer during my tenure with Nasfia (Pvt) Ltd.",
+    "desc": "lambkinz: Storytelling and learning platforms. \n Worked on this project as a senior software engineer during my tenure with Nasfia (Pvt) Ltd.",
     "image": "lambkinz",
     "category": "basicweb",
     "links": {
