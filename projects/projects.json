@@ -2,7 +2,7 @@
   {
     "name": "portfolio",
     "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
-    "image": "portfolio",
+    "image": "portfolioimage",
     "category": "basicweb",
     "links": {
       "view": "https://erfaanali.github.io/Portfolio/",
