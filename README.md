@@ -22,12 +22,13 @@ jQuery
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Font Awesome and JSON
 
 ### Contact
-
-
-If you want to contact me, you can reach me through the below handles.
-
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/irfanalee//"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+<br>  <a href="mailto:irfanali.sen@gmail.com?subject=Approaching via Portfolio" class="fas fa-envelope"
+            aria-label="Mail" target="_blank"></a>
 
+
+          <a class="fab fa-instagram" aria-label="Instagram" href="https://www.instagram.com/irfann_alee"
+       
 © 2022 Irfan Ali
 
 #Usage
