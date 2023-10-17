@@ -8,14 +8,14 @@ A showcase of my projects and skills. Visit my portfolio to learn more about my 
 I am a passionate and skilled software engineer with expertise in a variety of technologies and programming languages. My experience in the field has allowed me to develop a strong understanding of complex software development processes.
 
 ### Features
-Interactive design
-User-friendly interface
+Interactive design<br>
+User-friendly interface<br>
 Seamless navigation
 
 ### Technologies Used
-HTML
-CSS
-JavaScript
+HTML<br>
+CSS<br>
+JavaScript<br>
 jQuery
 
 ### Extras : 
