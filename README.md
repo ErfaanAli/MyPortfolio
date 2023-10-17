@@ -24,9 +24,6 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Font Awesome and JSON
 ### Contact
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/irfanalee//"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-
-
-          <a class="fab fa-instagram" aria-label="Instagram" href="https://www.instagram.com/irfann_alee"
        
 © 2023 Irfan Ali
 
